@@ -8,7 +8,9 @@ Welcome to the Metaheuristic Optimization Neural Networks (MONNs) repository! Th
 ## Simulated Annealing
 
 Simulated Annealing is a metaheuristic optimization algorithm inspired by the annealing process in metallurgy. It is particularly useful for solving combinatorial optimization problems. Simulated Annealing starts with an initial solution and iteratively explores the solution space by allowing "worse" solutions to be accepted with a certain probability. As the algorithm progresses, the acceptance probability decreases, leading to a convergence towards an optimal solution. In the context of MONNs, Simulated Annealing can be used to optimize the weights and biases of the neural network.
-![3-s2 0-B9780128157152000099-gr007](https://github.com/peyman-paknezhad/metaheuristic-optimization-NN/assets/102018763/d844d979-3981-4c58-9356-ca3498b58a4f)
+
+<img width="243" alt="The-method-of-simulated-annealing" src="https://github.com/peyman-paknezhad/metaheuristic-optimization-NN/assets/102018763/01725333-399a-4a9d-86d9-be867b56ff04">
+
 
 ## Genetic Algorithm
 
