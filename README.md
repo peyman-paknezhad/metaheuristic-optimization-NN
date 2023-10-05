@@ -15,4 +15,4 @@ Simulated Annealing is a metaheuristic optimization algorithm inspired by the an
 
 Genetic Algorithm is another metaheuristic optimization algorithm inspired by the process of natural selection and genetics. It is well-suited for solving optimization problems with a large search space and multiple local optima. Genetic Algorithm operates by maintaining a population of candidate solutions and iteratively applying selection, crossover, and mutation operations to generate new candidate solutions. The fittest individuals in each generation are more likely to be selected for reproduction, leading to the evolution of the population towards better solutions. In the context of MONNs, Genetic Algorithm can be used to optimize the architecture or hyperparameters of the neural network.
 
-![What-is-Genetic-Algorithm](https://github.com/peyman-paknezhad/metaheuristic-optimization-NN/assets/102018763/bddecc6a-ebd5-4cdd-a49b-9d04f749902e)
+![What-is-Genetic-Algorithm](https://raw.githubusercontent.com/peyman-paknezhad/metaheuristic-optimization-NN/main/pic/simulated-annealing.png)
